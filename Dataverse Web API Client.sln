@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dataverse Web API Client", "Dataverse Web API Client\Dataverse Web API Client.csproj", "{A46E1ECA-B140-46E8-BDA5-464BF25BCDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46E1ECA-B140-46E8-BDA5-464BF25BCDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46E1ECA-B140-46E8-BDA5-464BF25BCDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46E1ECA-B140-46E8-BDA5-464BF25BCDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46E1ECA-B140-46E8-BDA5-464BF25BCDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DF483B-6D88-41E6-B90A-8D3C2E21E619}
+	EndGlobalSection
+EndGlobal
